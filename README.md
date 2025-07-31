@@ -1,0 +1,2 @@
+# Godhub.lua
+God
